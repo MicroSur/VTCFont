@@ -1,0 +1,14 @@
+
+The newest custom firmware SME (sur_myevic) here
+https://github.com/MicroSur/sur_myevic
+direct link to bin
+https://github.com/MicroSur/sur_myevic/raw/master/bin/myevic.bin
+
+***
+
+За новыми версиями кастомной прошивки SME (sur_myevic) на основе майэвика сюда
+https://github.com/MicroSur/sur_myevic
+ссылка на саму прошивку
+https://github.com/MicroSur/sur_myevic/raw/master/bin/myevic.bin
+
+
